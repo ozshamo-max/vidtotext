@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(py:*)",
+      "Bash(cd \"/c/Users/yaelc/OneDrive - ע.ש. אחזקת מבנים בע מ, ח.פ. 516136819/Documents/קלוד קוד/VidToText\" && npm create vite@latest frontend -- --template react 2>&1)",
+      "Bash(cmd.exe:*)"
+    ]
+  }
+}
