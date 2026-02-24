@@ -1,5 +1,5 @@
-fastapi>=0.111.0
-uvicorn[standard]>=0.30.1
-openai-whisper>=20231117
-ffmpeg-python>=0.2.0
-python-multipart>=0.0.9
+﻿openai-whisper
+fastapi
+uvicorn
+python-multipart
+ffmpeg-python
